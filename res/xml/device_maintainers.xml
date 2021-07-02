@@ -202,6 +202,13 @@
                 android:data="https://t.me/bravesoul349" />
         </Preference>
 
+        <Preference>
+            android:id="@+id/device_redfin"
+            android:icon="@drawable/havoc_device"
+            android:summary="@string/device_redfin_summary"
+            android:title="@string/device_redfin"
+        </Preference>
+
         <!--<Preference
             android:id="@+id/device_blueline"
             android:icon="@drawable/havoc_device"

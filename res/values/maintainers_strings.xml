@@ -97,6 +97,9 @@
     <string name="device_crosshatch" translatable="false">Google Pixel 3 XL</string>
     <string name="device_crosshatch_summary" translatable="false">crosshatch\nSteve Provancal (slothdabski)</string>
 
+    <string name="device_redfin" translatable="false">Google Pixel 5</string>
+    <string name="device_redfin_summary" translatable="false">redfin\nAdam Szorenyi (aszorenyi)</string>
+
     <string name="device_a10" translatable="false">Samsung Galaxy A10</string>
     <string name="device_a10_summary" translatable="false">a10\nJosh Shippam (Dark98)</string>
 
